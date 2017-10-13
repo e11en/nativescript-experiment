@@ -1,4 +1,4 @@
 # nativescript-experiment
-Testing out NativeScipt.
+Testing out NativeScipt
 
 Created project using "tns create HelloWorld --template nativescript-template-ng-tutorial"
